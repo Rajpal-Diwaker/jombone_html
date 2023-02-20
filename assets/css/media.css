@@ -1,0 +1,997 @@
+@media only screen and (min-width: 2000px) {
+	#wrapper {
+		max-width: 2000px;
+		margin: 62px auto 0px auto;
+	}
+	section.banner #banner_slider .item {
+		height: 960px;
+	}
+	.navbar .custom_container {
+		max-width: 2000px;
+		margin: 0 auto;
+	}
+	.custom_container {
+		max-width: 2000px;
+	}
+}
+
+@media only screen and (max-width: 1800px) {
+	.navbar-default .navbar-nav>li>a {
+		font-size: 17px;
+	}
+	#wrapper {
+		margin-top: 62px;
+	}
+	section.problems .problem_wrapper span.top_left_rec {
+		width: 120px;
+		height: 120px;
+		top: -60px;
+		left: -60px;
+	}
+	section.problems .problem_wrapper span.bottom_left_rec {
+		width: 320px;
+		height: 320px;
+	}
+	section.problems span.top_right_rec {
+		width: 80px;
+		height: 200px;
+	}
+	section.problems span.bottom_right_rec {
+		width: 120px;
+		height: 220px;
+		bottom: 20px;
+	}
+}
+
+@media only screen and (max-width: 1600px) {
+	.navbar-brand {
+		width: 150px;
+		height: 28px;
+	}
+	.navbar-default .navbar-nav>li>a {
+		font-size: 14px;
+	}
+	.navbar-default .navbar-nav>li.actionbtn a.btns_border, .navbar-default .navbar-nav>li.actionbtn a.btns, a.btns {
+		font-size: 14px;
+	}
+	section.video .video_div span.top_rec {
+		width: 300px;
+		height: 300px;
+		top: -30px;
+	}
+	section.video .video_div iframe {
+		height: 280px;
+	}
+	section.video .video_maindiv {
+		padding: 60px 0px 0px 0px;
+	}
+	section.target .target_body a {
+		font-size: 19px;
+		padding: 10px 10px;
+	}
+	section.target .target_header {
+		font-size: 21px;
+		margin-bottom: 10px;
+	}
+	section.resources .filter_input_wrapper span.search_input input, section.resources .filter_input_wrapper .selectpickerdiv .bootstrap-select>.btn, section.resources .go_btn input.submit_btn {
+		font-size: 18px;
+	}
+	section.resources .filter_input_wrapper .search_input span.search_icon, section.resources .bootstrap-select.btn-group .btn .caret {
+		width: 25px;
+		height: 25px;
+		right: 15px;
+		margin-top: -12.5px;
+		background-size: 25px 50px;
+	}
+	section.resources .selectpickerdiv .bootstrap-select li {
+		font-size: 18px;
+	}
+	section.suggestion span.suggestion_head, .resources_div .resources_title {
+		font-size: 20px;
+	}
+	.resource_wrapper .gap_ac {
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+	.resource_wrapper {
+		margin-left: -5px;
+		margin-right: -5px;
+	}
+	section.resources .filter_input_wrapper .search_input span.search_icon {
+		background-position: 0px 0px;
+	}
+	section.resources .bootstrap-select.btn-group .btn .caret {
+		background-position: 0px -25px;
+	}
+	section.resources .resources_filter p, .product_bottom p, section.why ul.why_list li, section.what .what_content_wrapper p {
+		font-size: 21px;
+	}
+	section.staffing_mission .our_mission_icon {
+		min-height: 85px;
+	}
+	section.staffing_mission .our_missiondiv img {
+		width: 60px;
+	}
+	section.staffing_mission .our_mission_title {
+		font-size: 21px;
+		margin-bottom: 5px;
+	}
+	section.staffing_mission p {
+		font-size: 18px;
+	}
+	section.proposition .proposition_onhover_div p {
+		font-size: 18px;
+	}
+	section.proposition .proposition_div {
+		font-size: 19px;
+	}
+	section.proposition .proposition_innerwrapper {
+		min-height: 225px;
+	}
+	section.feature .feature_div img {
+		width: 65px;
+	}
+	section.proposition .proposition_div img {
+		width: 85px;
+	}
+	section.partner .partners_header img {
+		max-width: 100%;
+		width: 500px;
+	}
+	section.partner .all_partnerdiv_wrapper {
+		padding: 20px 140px 0px 140px;
+	}
+	section.partner .all_partnerdiv .partner_div {
+		min-height: 145px;
+	}
+	.commondesign_wrapper {
+		margin: 20px 0px 0px 0px;
+	}
+	section.capabilities .capabilities_wrapper .design_div .design_overlaytext span.design_title {
+		font-size: 18px;
+		min-height: 52px;
+	}
+	section.capabilities .capabilities_wrapper .design_div .design_overlaytext {
+		bottom: calc(72px - 100%);
+	}
+	section.banner .banner_content {
+		left: 195px;
+	}
+	.custom_container {
+		padding: 0 180px;
+	}
+	section.capabilities {
+		padding: 20px 0px 10px 0px;
+	}
+	#resource_slider {
+		padding: 20px 10px;
+	}
+	section.work {
+		margin-bottom: 20px;
+	}
+	section.work .work_wrapper, section.capabilities .capabilities_wrapper {
+		margin: 20px 0px 0px 0px;
+	}
+	section.workers .workers_wrapper, section.why ul.why_list, section.benefits .benefitstab, section.achievements .achievement_countwrapper, section.calculator .calculator_wrapper, section.suggestion .suggestion_sliderwrapper, section.mission .mission_content_wrapper, section.vission .ourvission_wrapper, .resource_wrapper, section.resources .filter_inner, section.resources .resources_filter, section.problems .problems_maindiv, section.staffing_mission .our_mission_wrapper, section.target .target_wrapper, section.what .what_content_wrapper {
+		padding-top: 20px;
+	}
+	section.resources .resource_wrapper .resources_div {
+		margin-bottom: 30px;
+	}
+	section.feature .feature_wrapper, section.proposition .proposition_wrapper {
+		margin: 20px 0px 0px 0px;
+	}
+	section.benefits, section.feature, .product_bottom, section.workers, section.video, section.partner, section.achievements, section.calculator, footer, section.mission, section.vission, section.contact, section.team, section.industry, section.suggestion, section.resources, section.staffing_mission, section.target, section.what, section.focus, section.proposition, section.problems, section.why {
+		padding: 20px 0px;
+	}
+	section.pattern_banner {
+		padding: 20px 0px 30px 0px;
+	}
+	section.contact .address_wrapper {
+		padding: 20px 0px 0px 0px
+	}
+	section.contact .form_wrapper {
+		padding: 30px 0px 0px 0px;
+	}
+	section.workers .workers_info .worker_tagline {
+		font-size: 27px;
+	}
+	section.workers .workers_info .workers_content, section.workers .workers_info .workers_text {
+		font-size: 17px;
+	}
+	div.thankyou_div {
+		padding: 60px 15px 80px 15px;
+	}
+	div.thankyou_div h1 {
+		font-size: 30px;
+	}
+	div.thankyou_div p {
+		font-size: 19px;
+	}
+	section.focus .industry_wrapper h4, section.focus .office_wrapper h4 {
+		font-size: 24px;
+		margin-bottom: 10px;
+	}
+	section.focus .inner_text {
+		font-size: 19px;
+		margin-bottom: 5px;
+	}
+	section.focus .btn_gr {
+		font-size: 20px;
+	}
+	section.problems .problem_wrapper span.top_left_rec {
+		width: 100px;
+		height: 100px;
+		top: -50px;
+		left: -50px;
+	}
+	section.problems .problem_wrapper span.bottom_left_rec {
+		width: 250px;
+		height: 250px;
+		bottom: -50px;
+	}
+	section.problems .problem_wrapper span.bottom_left_rec {
+		width: 200px;
+		height: 200px;
+		bottom: -20px;
+	}
+	section.problems span.top_right_rec {
+		width: 70px;
+		height: 180px;
+	}
+	section.problems span.bottom_right_rec {
+		width: 100px;
+		height: 180px;
+		bottom: 20px;
+	}
+	section.problems .problems_maindiv .tab-content img {
+		width: 260px;
+	}
+	.nav_stip_wrapper .nav_stip a {
+		font-size: 16px;
+		padding: 10px;
+	}
+	section.aboutus_banner, section.produtcs_banner, section.staffing_banner {
+		padding: 100px 0px;
+	}
+	.heading h2, .heading h3, .heading h4, .heading h5 {
+		font-size: 30px;
+	}
+	.btns_group a, input.submit_btn {
+		min-width: 120px;
+	}
+	.app_downloadbtn img {
+		width: 120px;
+	}
+	.navbar-default .navbar-nav>li.actionbtn a {
+		min-width: 130px;
+	}
+	.navbar-default .navbar-nav>li.actionbtn a {
+		min-width: 130px;
+	}
+	.navbar-default .navbar-nav>li>a {
+		margin: 0px 10px 0px 0px;
+	}
+	section.banner #banner_slider .owl-dot span {
+		width: 10px;
+		height: 10px;
+	}
+	section.banner .banner_content span.text_usetech {
+	    font-size: 22px;
+	}
+	section.banner .banner_content span.text_hiretech {
+		font-size: 20px;
+		margin-bottom: 40px;
+	}
+	section.banner .banner_content h1, section.another_banner h1 {
+		font-size: 40px;
+		line-height: 42px;
+	}
+	section.work .work_div .work_overlaytext span.work_title {
+		font-size: 23px;
+	}
+	section.work .work_div .work_overlaytext span.work_titleline, section.work .work_div .work_overlayonhover p {
+		font-size: 18px;
+	}
+	section.work .work_div .work_overlaytext .work_overlaydefault {
+		padding: 10px 15px;
+	}
+	section.video .video_tagline span {
+		font-size: 20px;
+	}
+	section.workers .workers_info {
+		padding: 20px 15px 30px 0px;
+	}
+	section.feature .feature_div {
+		font-size: 16px;
+		min-height: 170px;
+	}
+	section.benefits ul.benefits_heading li {
+		min-height: 80px;
+	}
+	section.benefits ul.benefits_heading li a, section.problems ul.problems_heading li a {
+		font-size: 18px;
+	}
+	section.problems ul.problems_heading li a span.problems_title {
+		font-size: 20px;
+	}
+	section.benefits .tab-content>.tab-pane img {
+		width: 310px;
+	}
+	section.achievements .counter_div {
+		font-size: 46px;
+	}
+	section.achievements .countertext_div {
+		font-size: 20px;
+	}
+	section.calculator .calculator_info .calinfo {
+		font-size: 22px;
+	}
+	footer {
+		font-size: 15px;
+	}
+	footer .footer_social_icon a i {
+		font-size: 20px;
+	}
+	footer h6 {
+		font-size: 16px;
+		margin: 0px 0px 20px 0px;
+	}
+	footer .footer_menus ul li {
+		margin-bottom: 10px;
+	}
+	section.another_banner p {
+		font-size: 19px;
+	}
+	section.mission .mission_content .mission_heading {
+		font-size: 30px;
+	}
+	section.mission .mission_content p {
+		font-size: 20px;
+	}
+	section.vission .vissionwrapper_content {
+		font-size: 22px;
+	}
+	section.vission .our_vissionheading {
+		font-size: 30px;
+	}
+	section.vission ul li {
+		font-size: 20px;
+	}
+	section.join {
+		font-size: 30px;
+	}
+	.design_div .design_overlaytext span.design_title {
+		font-size: 20px;
+	}
+	.design_div .design_overlaytext span.design_titleline {
+		font-size: 19px;
+	}
+	.design_div .design_overlaytext {
+		bottom: calc(75px - 100%);
+	}
+	.design_div .design_overlaytext p {
+		font-size: 15px;
+	}
+	.design_div a.linkedin {
+		font-size: 30px;
+	}
+	section.contact .address_title {
+		font-size: 20px;
+	}
+	section.contact .address_info {
+		font-size: 17px;
+		line-height: 25px;
+	}
+	section.contact span.contact_header {
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+	section.contact span.contact_div {
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+	section.contact span.contact_header i {
+		font-size: 24px;
+		margin-right: 5px;
+	}
+	.connectwclients #fromName, .connectwclients .form-group .form-control {
+		font-size: 16px;
+	}
+	.connectwclients .form-group .form-control::-webkit-input-placeholder, .connectwclients #fromName::-webkit-input-placeholder {
+		font-size: 20px;
+	}
+	.connectwclients .form-group .form-control::-moz-placeholder, .connectwclients #fromName::-moz-placeholder {
+		font-size: 20px;
+	}
+	.connectwclients .form-group .form-control:-ms-input-placeholder, .connectwclients #fromName:-ms-input-placeholder {
+		font-size: 20px;
+	}
+	.connectwclients .form-group .form-control:-moz-placeholder {
+		font-size: 20px;
+	}
+	.connectwclients .form-group {
+		margin-top: 10px;
+	}
+	section.suggestion .suggestion_div a, section.suggestion .suggestion_div p, .resources_div p, .resources_div a {
+		font-size: 18px;
+	}
+	section.suggestion .suggestion_div a, .resources_div a {
+		margin-top: 10px;
+	}
+	section.industry p {
+		font-size: 19px;
+		margin-bottom: 20px;
+	}
+}
+
+@media only screen and (max-width: 1300px) {
+	.navbar-brand {
+		width: 150px;
+		height: 28px;
+	}
+	.navbar-default .navbar-nav>li>a {
+		padding: 10px 10px;
+	}
+	.navbar-default .navbar-nav>li>a {
+		font-size: 13px;
+		margin-right: 0px;
+	}
+	.navbar-default .navbar-nav>li.actionbtn a.btns_border, .navbar-default .navbar-nav>li.actionbtn a.btns, a.btns {
+		font-size: 13px;
+	}
+	.navbar-default .navbar-nav>li.actionbtn a {
+		min-width: 110px;
+	}
+	.heading h2, .heading h3, .heading h4, .heading h5 {
+		font-size: 30px;
+	}
+	section.banner #banner_slider .owl-dot span {
+		width: 10px;
+		height: 10px;
+	}
+	section.work .work_div .work_overlaytext span.work_title {
+		font-size: 23px;
+	}
+	section.work .work_div .work_overlaytext span.work_titleline, section.work .work_div .work_overlayonhover p {
+		font-size: 21px;
+	}
+	section.video .video_tagline span {
+		font-size: 21px;
+	}
+	section.video .video_div span.top_rec {
+		width: 210px;
+		height: 210px;
+		top: -30px;
+	}
+	section.video .video_maindiv {
+		padding: 60px 0px 0px 0px;
+	}
+	section.workers .workers_info .worker_tagline {
+		font-size: 25px;
+		margin-bottom: 10px;
+	}
+	section.workers .workers_info .workers_content, section.workers .workers_info .workers_text {
+		font-size: 16px;
+	}
+	.btns_group a, input.submit_btn {
+		min-width: 130px;
+	}
+	.app_downloadbtn img {
+		width: 130px;
+	}
+	section.benefits ul.benefits_heading li a, section.problems ul.problems_heading li a {
+		font-size: 19px;
+	}
+	section.problems ul.problems_heading li a span.problems_title {
+		font-size: 23px;
+	}
+	section.calculator .calculator_info .calinfo {
+		font-size: 21px;
+	}
+	.design_div .design_overlaytext {
+		bottom: calc(78px - 100%);
+	}
+	.design_div .design_overlaytext .design_overlaydefault {
+		padding: 15px 20px;
+	}
+	.design_div .design_overlaytext p {
+		margin: 5px 0px;
+	}
+}
+
+@media only screen and (max-width: 1170px) {
+	section.proposition .proposition_div {
+		font-size: 19px;
+	}
+	section.suggestion span.suggestion_head, .resources_div .resources_title {
+		font-size: 19px;
+	}
+	section.suggestion .suggestion_div a, section.suggestion .suggestion_div p, .resources_div p, .resources_div a {
+		font-size: 17px;
+	}
+	.custom_container {
+		padding: 0 50px;
+	}
+	section.benefits ul.benefits_heading li a, section.problems ul.problems_heading li a {
+		font-size: 17px;
+	}
+	section.problems ul.problems_heading li a span.problems_title {
+		font-size: 21px;
+	}
+	section.benefits .tab-content>.tab-pane img {
+		width: 240px;
+	}
+	section.achievements .counter_div {
+		font-size: 36px;
+	}
+	section.achievements .countertext_div {
+		font-size: 17px;
+	}
+	section.banner #banner_slider .item {
+		height: calc(100vh - 130px);
+	}
+}
+
+@media only screen and (max-width: 991px) {
+	section.work .work_div .work_overlaytext span.work_titleline, section.work .work_div .work_overlayonhover p {
+		font-size: 15px;
+	}
+	section.video .video_div iframe {
+		height: 205px;
+	}
+	section.industry p {
+		font-size: 16px;
+	}
+	section.proposition .proposition_div br, section.work .work_div .work_overlayonhover p br,.product_bottom p br{
+		display: none;
+	}
+	section.workers .workers_info {
+		padding: 15px 15px 25px 0px;
+	}
+	section.partner .all_partnerdiv_wrapper {
+		padding: 20px 70px 0px 70px;
+	}
+	div.thankyou_div {
+		padding: 40px 15px 60px 15px;
+	}
+	div.thankyou_div h1 {
+		font-size: 25px;
+	}
+	div.thankyou_div p {
+		font-size: 15px;
+	}
+	section.target .target_header {
+		font-size: 20px;
+	}
+	section.target .target_body a {
+		font-size: 16px;
+	}
+	section.resources .resources_filter p, section.why ul.why_list li, section.what .what_content_wrapper p {
+		font-size: 21px;
+	}
+	section.why ul.why_list li{
+		margin-bottom:10px;
+	}
+	section.focus .industry_wrapper h4, section.focus .office_wrapper h4 {
+		font-size: 26px;
+	}
+	section.focus .inner_text {
+		font-size: 14px;
+	}
+	section.focus .btn_gr {
+		font-size: 16px;
+	}
+	section.focus .industry_wrapper, section.focus .office_wrapper {
+		width: calc(50% - 10px);
+		margin-left: 5px;
+		margin-right: 5px;
+		margin-bottom: 10px;
+	}
+	section.focus .ind_off_btns_wrapper {
+		width: calc(100% - 10px);
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	section.proposition .proposition_inner {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	section.proposition .proposition_pd {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	section.focus .btn_gr {
+		margin-right: 10px;
+	}
+	section.staffing_mission .our_mission_title {
+		font-size: 19px;
+	}
+	section.staffing_mission p {
+		font-size: 15px;
+	}
+	section.staffing_mission .our_mission_icon {
+		min-height: 80px;
+	}
+	section.staffing_mission .our_mission_icon img {
+		width: 60px;
+	}
+	section.partner .all_partnerdiv .partner_div {
+		min-height: 150px;
+	}
+	.nav_stip_wrapper .nav_stip a {
+		font-size: 12px;
+		padding: 10px 0px;
+	}
+	.custom_container {
+		padding: 0 0px;
+	}
+	.resource_wrapper {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.resource_wrapper .gap_ac {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	section.banner .banner_content {
+		left: 15px;
+	}
+	.navbar-default .navbar-nav>li>a {
+		margin: 0px 0px 0px 0px;
+	}
+	#wrapper {
+		margin-top: 62px;
+	}
+	.navbar-brand {
+		width: 110px;
+		height: 20px;
+	}
+	.navbar-default .navbar-nav>li>a {
+		padding: 10px 5px;
+	}
+	.navbar-default .navbar-nav>li.actionbtn a.btns_border {
+		margin-right: 5px;
+	}
+	section.banner .banner_content h1 {
+		font-size: 26px;
+	}
+	section.banner .banner_content span.text_usetech {
+		font-size: 16px;
+	}
+	section.banner .banner_content span.text_hiretech {
+		font-size: 15px;
+	}
+	section.banner .banner_content h1, section.banner .banner_content span, section.banner .banner_content span {
+		margin-bottom: 15px;
+	}
+	.btns_group a, input.submit_btn {
+		min-width: 130px;
+	}
+	.app_downloadbtn img {
+		width: 130px;
+	}
+	section.banner #banner_slider .item {
+		height: calc(100vh - 210px);
+	}
+	section.video .video_tagline span {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+	section.work .work_wrapper, section.capabilities .capabilities_wrapper {
+		padding: 0px 10px;
+	}
+	section.workers .workers_info .workers_content {
+		margin-bottom: 10px;
+	}
+	section.workers .workers_info .workers_text {
+		margin-bottom: 15px;
+	}
+	section.workers .app_downloadbtn {
+		margin-top: 10px;
+	}
+	section.feature .feature_div img {
+		width: 60px;
+	}
+	section.feature .feature_div {
+		font-size: 12px;
+		min-height: 150px;
+	}
+	section.benefits ul.benefits_heading li a, section.problems ul.problems_heading li a {
+		font-size: 15px;
+	}
+	section.problems ul.problems_heading li a span.problems_title {
+		font-size: 19px;
+	}
+	section.calculator .calculator_info .calinfo {
+		font-size: 19px;
+	}
+	.footer_logowrapper {
+		text-align: center;
+	}
+	footer .app_downloadbtn {
+		justify-content: center;
+	}
+	section.video span.right_rec {
+		width: 20px;
+		height: 190px;
+		top: calc(50% - 57px);
+	}
+	section.video .video_div span.top_rec {
+		width: 110px;
+		height: 110px;
+		top: -20px;
+		left: 20px;
+	}
+	section.video .video_div span.bottom_rec {
+		width: 100px;
+		left: -50px;
+	}
+	.slidebtn_left {
+		border-top: 10px dashed #4a4a4a;
+		border-right: 10px solid transparent;
+		border-left: 10px solid transparent;
+	}
+	.slidebtn_right {
+		border-top: 10px dashed #4a4a4a;
+		border-right: 10px solid transparent;
+		border-left: 10px solid transparent;
+	}
+	.owl-theme .owl-next {
+		right: -27px;
+	}
+	.owl-theme .owl-prev {
+		left: -27px;
+	}
+	section.vission .vissionwrapper_content {
+		font-size: 22px;
+	}
+	section.vission .vissionwrapper_content br {
+		display: none;
+	}
+	section.vission .our_vissionheading, section.vission ul li {
+		margin-bottom: 10px;
+	}
+	section.join {
+		font-size: 26px;
+	}
+	section.contact .address_div {
+		min-height: 255px;
+	}
+	section.contact .address_info br {
+		display: none;
+	}
+	section.mission .mission_content .mission_heading {
+		font-size: 24px;
+	}
+	section.mission .mission_content p {
+		font-size: 18px;
+	}
+	section.work .work_div .work_overlaytext span.work_titleline br {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	section.workers .workers_info .worker_tagline {
+		font-size: 23px;
+	}
+	section.banner .banner_content h1 br, section.banner .banner_content span br, section.banner .banner_content span br, section.work .work_div .work_overlayonhover p br {
+		display: none;
+	}
+	section.work .work_div .work_overlayonhover {
+		padding: 10px;
+	}
+	section.work .work_div .work_overlaytext span.work_titleline, section.work .work_div .work_overlayonhover p {
+		font-size: 17px;
+	}
+	section.video .video_div iframe {
+		height: 170px;
+	}
+	section.staffing_mission .our_missiondiv {
+		margin-bottom: 30px;
+	}
+	section.partner .all_partnerdiv_wrapper {
+		padding: 20px 0px 0px 0px;
+	}
+	section.partner .partners_header {
+		padding: 0px 30px;
+	}
+	section.partner .partners_header img {
+		max-width: 100%;
+		width: auto;
+	}
+	section.target .target_inner.sector_div, section.target .target_inner.industries_div {
+		margin-bottom: 20px;
+	}
+	section.staffing_mission .our_missiondiv {
+		margin-bottom: 20px;
+	}
+	section.focus .industry_wrapper, section.focus .office_wrapper, section.focus .ind_off_btns_wrapper {
+		width: calc(100% - 30px);
+		margin-right: 15px;
+		margin-left: 15px;
+	}
+	section.problems .problem_wrapper span.bottom_left_rec {
+		width: 150px;
+		height: 150px;
+		left: -15px;
+	}
+	section.focus .ind_off_btns_wrapper {
+		display: block;
+	}
+	section.focus .btn_gr {
+		display: block;
+		margin-right: 0px;
+		margin-bottom: 10px;
+	}
+	section.problems .problem_wrapper span.top_left_rec {
+		width: 70px;
+		height: 70px;
+		top: -35px;
+		left: -35px;
+	}
+	section.problems .problems_maindiv .tab-content img {
+		width: 190px;
+	}
+	section.resources .resources_filter p br, .product_bottom p br {
+		display: none;
+	}
+	section.problems .problems_maindiv .tab-content {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.nav_stip_wrapper .nav_stip a {
+		width: 50%;
+	}
+	section.partner .all_partnerdiv .partner_div {
+		min-height: 100px;
+	}
+	section.resources .filter_input_wrapper {
+		width: 100%;
+		float: none;
+		position: relative;
+	}
+	section.resources .resources_filter p, .product_bottom p, section.why ul.why_list li, section.what .what_content_wrapper p {
+		font-size: 18px;
+	}
+	section.resources .filter_input_wrapper span.search_input, section.resources .filter_input_wrapper span.select_input, .filter_input_wrapper span.search_input {
+		width: 100%;
+		margin: 0;
+		margin-bottom: 20px;
+	}
+	section.resources .filter_input_wrapper {
+		flex-direction: column;
+	}
+	section.resources .go_btn input.submit_btn, section.resources .go_btn {
+		width: 100%;
+		min-width: 100%;
+		margin-left: 0;
+	}
+	section.aboutus_banner, section.produtcs_banner, section.staffing_banner {
+		padding: 40px 0px;
+	}
+	.commondesign_wrapper {
+		padding: 0px;
+	}
+	section.mission .mission_content p br {
+		display: none;
+	}
+	.heading h2, .heading h3, .heading h4, .heading h5 {
+		font-size: 23px;
+	}
+	.navbar-default .navbar-nav>li.actionbtn {
+		margin-top: 10px;
+	}
+	.navbar_wrapper .navbar-header {
+		width: 100%;
+	}
+	.navbar_wrapper {
+		flex-direction: column;
+		padding: 0px 0px;
+	}
+	.navbar_wrapper #navbar {
+		width: 100%;
+	}
+	#wrapper {
+		margin-top: 50px;
+	}
+	.navbar-brand {
+		margin: 15px 0px;
+	}
+	.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+		border: 0;
+		background: transparent;
+		margin-right: 0;
+		padding-right: 0;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #1473e6;
+	}
+	section.work .work_div {
+		margin-bottom: 20px;
+	}
+	section.video .video_tagline, section.workers .workers_info {
+		margin-top: 20px;
+	}
+	section.benefits .benefitstab {
+		justify-content: center;
+	}
+	section.benefits .tab-content {
+		margin-bottom: 20px;
+	}
+	section.benefits .tab-content>.tab-pane img {
+		width: 200px;
+	}
+	section.achievements .achievement_div {
+		width: 50%;
+		margin-bottom: 20px;
+		min-height: 100px;
+	}
+	section.calculator .calculator_info {
+		margin-bottom: 20px;
+	}
+	section.calculator .calculator_info::after {
+		width: calc(100% + 150px);
+		margin-bottom: 20px;
+	}
+	footer .footer_menu_wrapper {
+		-webkit-flex-flow: row wrap;
+		-ms-flex-flow: row wrap;
+		flex-flow: row wrap;
+	}
+	footer .footer_menus {
+		width: 50%;
+		margin-bottom: 20px;
+		padding: 0px 5px;
+	}
+	footer .footer_logo_div img {
+		width: 195px;
+	}
+	section.another_banner h1, section.banner .banner_content h1 {
+		font-size: 25px;
+		line-height: 26px;
+	}
+	section.another_banner p {
+		font-size: 17px;
+	}
+	section.another_banner p br, section.calculator .calculator_info .calinfo br {
+		display: none;
+	}
+	section.industry p {
+		font-size: 17px;
+	}
+	section.vission .ourvission_wrapper .col-md-6.col-sm-6.col-xs-12 {
+		margin-bottom: 20px;
+	}
+	section.contact .address_div {
+		min-height: auto;
+	}
+	section.contact .addressmap_wrapper {
+		margin-bottom: 20px;
+	}
+	.resource_wrapper {
+		padding-top: 30px;
+	}
+	.resources_div .resources_img {
+		margin-bottom: 10px;
+	}
+	section.capabilities .design_div {
+		margin-bottom: 20px;
+	}
+	section.join {
+		font-size: 20px;
+	}
+}
+
+@media only screen and (max-width: 420px) {
+	section.feature .feature_div {
+		font-size: 11px;
+	}
+}
+
+@media only screen and (max-height: 400px) {
+	section.banner #banner_slider .item {
+		height: 400px;
+	}
+}
